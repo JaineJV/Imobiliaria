@@ -27,5 +27,27 @@ and open the template in the editor.
     padding: 2%;
 } 
 .box{
-   margin: -410px 0 0 450px;
+    margin: -410px 0 0 450px;
+}
+.icon{
+    width: 27px;
+    height: 20px;
+}
+.detalhes{
+    float: right;
+    width: 100px;
+    height: 45px;
+    background-color: red;
+    text-align: center;
+    color: white;
+    margin-top: -10px;
+}
+.hr{
+    height:5px;
+    border:0;
+    background:repeating-linear-gradient(45deg, blue, blue 10px,red 10px,red 20px), linear-gradient(to bottom, #eeeeee, #999999);
+}
+.ibusca{
+    width: 30px;
+    height: 30px;
 }
