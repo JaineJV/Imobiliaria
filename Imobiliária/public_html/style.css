@@ -48,6 +48,9 @@ and open the template in the editor.
     background:repeating-linear-gradient(45deg, blue, blue 10px,red 10px,red 20px), linear-gradient(to bottom, #eeeeee, #999999);
 }
 .ibusca{
-    width: 30px;
+    width: 15px;
     height: 30px;
+}
+center{
+    margin-left: 10%;
 }
